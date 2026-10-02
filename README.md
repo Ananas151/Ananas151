@@ -1,24 +1,36 @@
-<h3>Hi there! I'm Filip <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height=20> </h3> 
+# Hi, I'm Filip Mazurek
 
+**Photonics Researcher & Physics Student**
 
-- 👋 Hi, I’m Ananas151
-- 👀 I’m interested in physics, math and electronic engineering
-- 🌱 I’m currently making a 3D printed RC airplane
-- 💞️ I’m looking to collaborate on any cool eletronic or coding projects 
-- 📫 How to reach me kontakt@filipmazurek.pl
+I study physics at the **Faculty of Physics, University of Warsaw**, with a particular interest in photonics, optical sensing and experimental physics.
 
-<hr>
-<h3>I use...</h3>
+My interests extend beyond optics to **complex networks**, modelling and the broader question of how useful behaviour can emerge from complicated physical systems.
 
-- Arduino
-- Atmegas
-- 3D printer
-- Blender
-- Fusion360
-- Photoshop
-- C/C++
-- Brain
-<!---
-Mazurek2000/Mazurek2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+When the internal details are not essential to the problem at hand, I particularly enjoy treating complex physical systems as **black boxes** — focusing on their inputs, outputs and observable behaviour, and building models that capture what matters without unnecessarily reproducing every underlying mechanism.
+
+## Research & Engineering
+
+### Lossy Mode Resonance
+I work on **Lossy Mode Resonance (LMR)** structures for optical sensing, including thin-film modelling, resonance optimisation and experimental implementation.
+
+My work combines numerical modelling with practical optical measurements and sensor development.
+
+### Direct Ink Writing
+I am developing a custom **Direct Ink Writing (DIW) laboratory platform** for controlled extrusion and experimentation with a range of materials.
+
+The project combines mechanical design, electronics, instrumentation and software, with an emphasis on measurement, repeatability and experimental flexibility.
+
+## Interests
+
+- Photonics and optical sensing
+- Experimental physics
+- Complex networks
+- Physical and numerical modelling
+- Scientific instrumentation
+- Thin films and optical structures
+- Electronics and prototyping
+- Modelling complex systems through their observable behaviour
+
+## Website
+
+[**filipmazurek.pl**](https://filipmazurek.pl)
